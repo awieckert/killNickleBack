@@ -1,0 +1,11 @@
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\killNickleBack\bin\Debug\netcoreapp2.1\killNickleBack.deps.json
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\killNickleBack\bin\Debug\netcoreapp2.1\killNickleBack.runtimeconfig.json
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\killNickleBack\bin\Debug\netcoreapp2.1\killNickleBack.runtimeconfig.dev.json
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\killNickleBack\bin\Debug\netcoreapp2.1\killNickleBack.dll
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\killNickleBack\bin\Debug\netcoreapp2.1\killNickleBack.pdb
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\killNickleBack\obj\Debug\netcoreapp2.1\killNickleBack.csprojAssemblyReference.cache
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\killNickleBack\obj\Debug\netcoreapp2.1\killNickleBack.csproj.CoreCompileInputs.cache
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\killNickleBack\obj\Debug\netcoreapp2.1\killNickleBack.AssemblyInfoInputs.cache
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\killNickleBack\obj\Debug\netcoreapp2.1\killNickleBack.AssemblyInfo.cs
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\killNickleBack\obj\Debug\netcoreapp2.1\killNickleBack.dll
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\killNickleBack\obj\Debug\netcoreapp2.1\killNickleBack.pdb
